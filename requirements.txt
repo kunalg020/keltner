@@ -2,4 +2,5 @@ flask
 pandas
 pandas_ta
 requests
-setuptools
+setuptools<81
+numpy==1.26.4
